@@ -1,0 +1,29 @@
+ #container{
+            text-align: center;
+            margin: -20px 20% 0 20%;
+            background: #b9cae5;
+        }
+        #SVGs{
+            width:100px;
+            height:100px;
+            margin: 50px 0 0 350px;
+            position:relative;
+
+        }
+#abc{
+	float: left
+}
+#def{
+	float: left
+}
+
+        .sec1,.sec2{
+            width:100px;
+            height:100px;
+            position:absolute;
+            top:0;
+            left:0;
+        }
+        .sec1{
+            z-index:10;
+        }
